@@ -1,0 +1,27 @@
+
+f
+6app/src/main/java/com/example/smzad8/MainActivity.java,d\9\d917ae3a7093282d67ce8441abb573e339cdb9f0
+g
+7app/src/main/java/com/example/smzad8/FirstFragment.java,7\0\705c1037f6b3ba50c9895503b3f2d5e2df9f7b90
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+^
+.app/src/main/java/com/example/smzad8/Book.java,1\9\19ad2a2e51602209347908da5f6baa35c0940bd1
+`
+0app/src/main/java/com/example/smzad8/Entity.java,4\1\419303d028ccea437962dc3698ddcd0b8c1da643
+a
+1app/src/main/java/com/example/smzad8/BookDao.java,0\d\0d687fe1371f5146c4bbf58be0753cb8ae168d58
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+f
+6app/src/main/java/com/example/smzad8/BookDatabase.java,d\0\d052684446fe4f39a8a9aba51ef4c222cbd2eef4
+h
+8app/src/main/java/com/example/smzad8/BookRepository.java,e\f\efaa16d5ed86bb11cbac5b1f2dd3112c99c2b315
+h
+8app/src/main/java/com/example/smzad8/SecondFragment.java,3\6\361aa864ce03b9eef13364caa942b1666cab7c00
+g
+7app/src/main/java/com/example/smzad8/BookViewModel.java,3\e\3e52b5c9539beb260ed461431cbfdaa7f72f8325
+j
+:app/src/main/java/com/example/smzad8/EditBookActivity.java,e\3\e3145cc52426132815f5e8909911ae44374f80cf
